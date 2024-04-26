@@ -1,1 +1,2 @@
-stam A
+ stam A A
+stam A A
